@@ -1,0 +1,15 @@
+[{"question_text": "What are dolphins?",
+  "options":["Amphibians", "Fish", "Mammals", "Birds"],
+  "correct_answer": 3
+ },
+  {
+    "question_text": "What occupies most of Earth's surface",
+    "options": ["Water", "Land"],
+    "correct_answer": 1
+  },
+  {
+    "question_text": "What is the most loved programming language",
+    "options": ["Java", "Python", "C", "Julia"],
+    "correct_answer": 2
+  }
+]
